@@ -1,0 +1,20 @@
+.cardbox{
+    background: linear-gradient(89deg, #e700b9 0%, #05c3d8 100%);
+    flex-grow: 1;
+    flex-basis: 0;
+    display: flex;
+    justify-content:space-around;
+    overflow-inline:inherit;
+    flex-direction: column;
+    padding: .5rem;
+    width: 350px;
+    margin:0;
+    padding: 5px;
+    
+    text-align: justify;
+}
+
+.footer{
+    font-style: italic;
+    color: red;
+} 

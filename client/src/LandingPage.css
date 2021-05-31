@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(89deg, #e700b9 0%, #05c3d8 100%);
+  }
+  
+  .heading{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    color: rgb(13, 13, 102);
+    padding: 10px;
+    text-align: center;
+    /* margin-bottom: 80%; */
+  }
+  
+  .subheading{
+    margin: 5px;
+    padding: 5px;
+    font-size: 2rem;
+    font-family: cursive;
+    color: yellowgreen;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .cardcustom{
+    margin-top: 15%;
+  }
+  
+  .particles{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+  }
